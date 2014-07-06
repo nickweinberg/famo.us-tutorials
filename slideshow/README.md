@@ -1,1 +1,1 @@
-famo.us slideshow tutorial
+finished famo.us slideshow tutorial
